@@ -86,4 +86,5 @@ int main()
     for (int i = 0; i<10 ; i ++)
         cout<<df.pop() << endl;
         cout<<df.pop() << endl;
+getch();
 }
